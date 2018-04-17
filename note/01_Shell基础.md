@@ -23,8 +23,6 @@ Shell还是一个功能相当强大的编程语言，易编写，易调试，灵
 查看当前使用的shell：echo $SHELL<br/>
 查看Linux支持的shell：``/etc/shells``
 
----
-
 ## 2.脚本执行方式
 ### 2.1.命令
 #### echo输出命令
